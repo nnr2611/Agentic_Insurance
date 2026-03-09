@@ -4,7 +4,7 @@ AI-powered platform for calculating insurance benefits in property management
 
 This project predicts the maximum insurance benefit for property management clients based on historical claims and property-related features. It leverages a multi-model ensemble combining regression and LLM-based models, fine-tuned for structured and unstructured claim data, to provide accurate and reliable benefit estimations.
 
-![Alt text](Project_Corgi/Corgi_data.png)
+![Alt text](Project_Insurance/Insurance_data.png)
 
 The system uses property insurance claim records containing both client information and property/lease details including:
 | Feature                    | Type        | Encoding / Range |
@@ -25,7 +25,7 @@ The system uses property insurance claim records containing both client informat
 | Termination type           | Categorical | 0/1              |
 
 
-![Alt text](Project_Corgi/Corgi_Agentic.png)
+![Alt text](Project_Insurance/Insurance_Agentic.png)
 
 ### Fine-tuned **[LLaMA Model on HuggingFace](https://huggingface.co/vishnucharan717/insuranceAmountPredictor-2025-04-25_08.49.57)** for structured features.
 
@@ -73,6 +73,6 @@ The system leverages a multi-model approach, combining LLM-based models with a t
 
 ### Training Analysis - Weights and Bias open API - 
 
-![Alt text](Project_Corgi/tr_img1)
-![Alt text](Project_Corgi/tr_img2)
-![Alt text](Project_Corgi/tr_img3)
+![Alt text](Project_Insurance/tr_img1)
+![Alt text](Project_Insurance/tr_img2)
+![Alt text](Project_Insurance/tr_img3)
