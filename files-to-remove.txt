@@ -1,0 +1,4 @@
+corgi_env/
+.chroma/
+*.h5
+*.pdf
