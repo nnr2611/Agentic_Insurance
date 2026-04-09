@@ -1,6 +1,6 @@
 # Agentic AI - Property Insurance Benefit Amount Estimator
 AI-powered platform for calculating insurance benefits in property management
-From a Ycombinator based startup
+
 
 This project predicts the maximum insurance benefit for property management clients based on historical claims and property-related features. It leverages a multi-model ensemble combining regression and LLM-based models, fine-tuned for structured and unstructured claim data, to provide accurate and reliable benefit estimations.
 
