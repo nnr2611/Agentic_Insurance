@@ -27,7 +27,7 @@ The system uses property insurance claim records containing both client informat
 
 ![Alt text](Project_Insurance/Insurance_Agentic.png)
 
-### Fine-tuned **[LLaMA Model on HuggingFace](https://huggingface.co/vishnucharan717/insuranceAmountPredictor-2025-04-25_08.49.57)** for structured features.
+### Fine-tuned **[LLaMA Model on HuggingFace]()** for structured features.
 
 Modeling Pipeline
 
