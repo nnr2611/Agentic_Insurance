@@ -1,0 +1,5 @@
+STORE = "store"
+RETRIEVE = "retrieve"
+GENERATE = "generate"
+GRADE_DOCUMENTS = "grade_documents"
+ENSEMBLE_MODEL = "ensemble_model"
